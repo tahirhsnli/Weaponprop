@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C# Weaponproperty\Weaponprop\bin\Debug\net6.0\Weaponprop.exe
+C:\Users\user\Desktop\C# Weaponproperty\Weaponprop\bin\Debug\net6.0\Weaponprop.deps.json
+C:\Users\user\Desktop\C# Weaponproperty\Weaponprop\bin\Debug\net6.0\Weaponprop.runtimeconfig.json
+C:\Users\user\Desktop\C# Weaponproperty\Weaponprop\bin\Debug\net6.0\Weaponprop.dll
+C:\Users\user\Desktop\C# Weaponproperty\Weaponprop\bin\Debug\net6.0\Weaponprop.pdb
+C:\Users\user\Desktop\C# Weaponproperty\Weaponprop\obj\Debug\net6.0\Weaponprop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Weaponproperty\Weaponprop\obj\Debug\net6.0\Weaponprop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C# Weaponproperty\Weaponprop\obj\Debug\net6.0\Weaponprop.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# Weaponproperty\Weaponprop\obj\Debug\net6.0\Weaponprop.AssemblyInfo.cs
+C:\Users\user\Desktop\C# Weaponproperty\Weaponprop\obj\Debug\net6.0\Weaponprop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Weaponproperty\Weaponprop\obj\Debug\net6.0\Weaponprop.dll
+C:\Users\user\Desktop\C# Weaponproperty\Weaponprop\obj\Debug\net6.0\refint\Weaponprop.dll
+C:\Users\user\Desktop\C# Weaponproperty\Weaponprop\obj\Debug\net6.0\Weaponprop.pdb
+C:\Users\user\Desktop\C# Weaponproperty\Weaponprop\obj\Debug\net6.0\Weaponprop.genruntimeconfig.cache
+C:\Users\user\Desktop\C# Weaponproperty\Weaponprop\obj\Debug\net6.0\ref\Weaponprop.dll
